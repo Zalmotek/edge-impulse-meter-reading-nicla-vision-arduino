@@ -1,1 +1,1 @@
-# EdgeImpulse_meter_reading_nicla_vision
+# Analog Meter Reading with Nicla Vision
